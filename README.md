@@ -53,8 +53,3 @@ Distributed under the MIT License. You are free to use, modify, and distribute t
 This tool is strictly for educational and market research purposes. Using this script for massive scraping must comply with YellowPages' Terms of Service and local privacy laws (GDPR/CCPA). The author is not responsible for any misuse of this software.
 
 Crafted with 🐍 and a passion for automation.
-
-What's next, Karl?
-Now that the README is in English and looks like a top-tier open-source project, you are ready to conquer Reddit.
-
-Would you like me to write the Reddit post specifically for /r/Python or /r/webscraping? Each needs a slightly different hook to avoid being flagged as spam. Let's get those stars on GitHub! 📐💪🐍🎸
