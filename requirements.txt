@@ -1,0 +1,3 @@
+pandas
+playwright
+nest_asyncio
